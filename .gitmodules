@@ -1,0 +1,3 @@
+[submodule "lib/nodejs-mysql-native"]
+	path = lib/nodejs-mysql-native
+	url = git@github.com:cwolves/nodejs-mysql-native.git
